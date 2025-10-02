@@ -39,4 +39,4 @@ Michel | RM 567345
 Yuri | RM 567314
 
 #O site está disponível no GitHub:
-https://github.com/dedeferreira/cp-front.git
+dedeferreira.github.io/cp-front/ 
